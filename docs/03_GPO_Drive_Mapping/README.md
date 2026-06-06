@@ -291,7 +291,8 @@ Die folgenden Screenshots dokumentieren die Umsetzung und Validierung.
 | `04_drive_maps_configuration.png` | Drive Maps configuration using Group Policy Preferences / Drive-Maps-Konfiguration über Group Policy Preferences          |
 | `05_gpupdate_force.png`           | Manual policy update using `gpupdate /force` / Manuelle Richtlinienaktualisierung mit `gpupdate /force`                   |
 | `06_gpresult_applied_gpo.png`     | Validation of applied Group Policy using `gpresult /r` / Prüfung der angewendeten GPO mit `gpresult /r`                   |
-| `07_mapped_drive_visible.png`     | Successfully mapped HR network drive visible in File Explorer / Erfolgreich verbundenes HR-Netzlaufwerk im Datei-Explorer |
+| `<img width="1713" height="903" alt="07_mapped_drive_visible" src="https://github.com/user-attachments/assets/b852c262-8992-4030-87ba-6a1f100dec8c" />
+`     | Successfully mapped HR network drive visible in File Explorer / Erfolgreich verbundenes HR-Netzlaufwerk im Datei-Explorer |
 
 Screenshots are stored in:
 
