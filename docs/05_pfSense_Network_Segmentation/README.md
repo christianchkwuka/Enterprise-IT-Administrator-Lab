@@ -36,18 +36,23 @@ The main goals were:
 Die Hauptziele waren:
 
 * Separate internal departments into different network segments
+* 
   Interne Abteilungen in verschiedene Netzwerksegmente trennen
 
 * Control access between HR, Finance, IT and DMZ
+  
   Zugriff zwischen HR, Finance, IT und DMZ kontrollieren
 
 * Allow only required communication
+* 
   Nur notwendige Kommunikation erlauben
 
 * Block unauthorized traffic between sensitive networks
+* 
   Nicht autorisierten Datenverkehr zwischen sensiblen Netzwerken blockieren
 
 * Validate allowed and blocked traffic through ping tests and firewall logs
+* 
   Erlaubten und blockierten Datenverkehr mit Ping-Tests und Firewall-Logs validieren
 
 ---
@@ -89,18 +94,23 @@ It helps to:
 Sie hilft dabei:
 
 * reduce lateral movement after a compromise
+* 
   laterale Bewegungen nach einem Angriff zu reduzieren
 
 * protect sensitive systems and data
+* 
   sensible Systeme und Daten zu schützen
 
 * separate high-risk areas such as DMZ from internal networks
+* 
   risikoreiche Bereiche wie die DMZ von internen Netzwerken zu trennen
 
 * enforce least privilege communication
+* 
   Kommunikation nach dem Least-Privilege-Prinzip umzusetzen
 
 * improve firewall visibility and auditability
+* 
   Transparenz und Nachvollziehbarkeit von Firewall-Regeln zu verbessern
 
 ---
