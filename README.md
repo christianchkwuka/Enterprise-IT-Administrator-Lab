@@ -1,6 +1,5 @@
 # Enterprise-IT-Administrator-Lab
 
-# Enterprise IT Administrator Lab
 
 ## Windows Server | Active Directory | pfSense | Monitoring | Backup | GRC Documentation
 
